@@ -7,3 +7,4 @@ menu.onclick = function myFunction() {
     }
 };
 console.log("test commit kappa123");
+console.log("second commit kappa123");
